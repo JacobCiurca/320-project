@@ -1,7 +1,7 @@
 # 320-project
 # Openmp Bubble Sort
 
-Openmp is a c++ extension that allows you to run a program in parallel
+Openmp is a c++ extension that allows you to run a program in parallel. We are using openmp for c++ to implement bubble sort in parallel and compare the run time of paralell bubble sort to sequential bubble sort's run time
 
 ## Installation
 Install microsoft visual studio and create a new project, under properties go to c/c++ and then under that click language, then go to open openmp support and click yes to enable openmp on visual studio.
